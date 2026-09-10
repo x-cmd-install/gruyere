@@ -1,0 +1,14 @@
+- repo: homebrew
+  srcname: gruyere
+  visiblename: gruyere
+  version: 0.1.0
+  origversion: null
+  status: unique
+  summary: TUI program for viewing and killing processes listening on ports
+- repo: homebrew
+  srcname: gruyere
+  visiblename: gruyere
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: TUI program for viewing and killing processes listening on ports
