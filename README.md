@@ -35,22 +35,22 @@ Total: **754** lines of code across **5** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 298 · **Forks**: 13 · **Open issues**: 17 · **Contributors**: 4
+- **Stars**: 298 · **Forks**: 14 · **Open issues**: 18 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 16 · **Open PRs**: 0 · **Closed issues**: 17 · **Open issues**: 0 · **Commits**: 106
+- **Releases**: 8 · **Merged PRs**: 16 · **Open PRs**: 1 · **Closed issues**: 17 · **Open issues**: 1 · **Commits**: 106
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-13 | 8 | 6 | 0 | 4 | 0 | 31 |
-| last720d | 2024-10-18 | 8 | 6 | 0 | 4 | 0 | 38 |
+| 30d | 2026-09-09 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-08-10 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-07-11 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-04-12 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 360d | 2025-10-14 | 8 | 6 | 1 | 4 | 1 | 31 |
+| last720d | 2024-10-19 | 8 | 6 | 1 | 4 | 1 | 38 |
 
 ## Improve this data
 
@@ -61,4 +61,4 @@ Install metadata for gruyere lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:42:35Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:44:27Z._
