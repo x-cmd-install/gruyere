@@ -14,13 +14,13 @@ x install gruyere
 
 ## Code insight
 
-Total: **754** lines of code across **5** files in the top 5 languages.
+Total: **838** lines of code across **6** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 690 | 76 | 151 | 3 |
+| Python | 774 | 75 | 178 | 4 |
 | Toml | 64 | 1 | 10 | 1 |
-| Markdown | 0 | 28 | 13 | 1 |
+| Markdown | 0 | 29 | 13 | 1 |
 
 ## Source
 
@@ -31,26 +31,26 @@ Total: **754** lines of code across **5** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.1.0` (2025-11-24)
-- **Last commit**: 2025-11-24
+- **Last commit**: 2026-10-20
 
 ## Popularity
 
-- **Stars**: 298 · **Forks**: 14 · **Open issues**: 18 · **Contributors**: 4
+- **Stars**: 298 · **Forks**: 14 · **Open issues**: 18 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 16 · **Open PRs**: 1 · **Closed issues**: 17 · **Open issues**: 1 · **Commits**: 106
+- **Releases**: 8 · **Merged PRs**: 18 · **Open PRs**: 0 · **Closed issues**: 18 · **Open issues**: 0 · **Commits**: 110
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-08-21 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-07-22 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-04-23 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 360d | 2025-10-25 | 8 | 6 | 1 | 4 | 1 | 3 |
-| last720d | 2024-10-30 | 8 | 6 | 1 | 4 | 1 | 38 |
+| 30d | 2026-09-21 | 0 | 2 | 0 | 1 | 0 | 2 |
+| last60d | 2026-08-22 | 0 | 2 | 0 | 1 | 0 | 2 |
+| 90d | 2026-07-23 | 0 | 2 | 0 | 1 | 0 | 2 |
+| last180d | 2026-04-24 | 0 | 2 | 0 | 1 | 0 | 2 |
+| 360d | 2025-10-26 | 8 | 4 | 0 | 3 | 0 | 5 |
+| last720d | 2024-10-31 | 8 | 8 | 0 | 5 | 0 | 42 |
 
 ## Improve this data
 
@@ -61,4 +61,4 @@ Install metadata for gruyere lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:26:52Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:13:18Z._
